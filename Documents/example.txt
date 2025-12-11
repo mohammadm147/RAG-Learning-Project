@@ -1,0 +1,1 @@
+Place your context documents as txt files in this directory. This directory will be used for chunking and embedding.
